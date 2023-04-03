@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hanshackfresse
+- 👋 Hi, I’m @chrisipunkt
 - 👀 I’m interested in learning Arch/Linux, javascript, html, css and java.
 - 🌱 I’m currently learning java and javascript
 - 💞️ I’m looking to collaborate on anything, especially in what I listed above
