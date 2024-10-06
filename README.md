@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chrisipunkt
+- 👋 Hi, I’m @chrispunkt
 
 
 <!---
